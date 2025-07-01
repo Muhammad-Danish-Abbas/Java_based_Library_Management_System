@@ -12,6 +12,17 @@ Managing library inventories manually is time-consuming and prone to errors. The
 
 ---
 
+# How to Run in PowerShell
+## Save file as: LibraryManagementSystem.java
+
+### Open PowerShell and run:
+
+powershell
+```
+cd "$HOME\Desktop"
+javac LibraryManagementSystem.java
+java LibraryManagementSystem
+```
 ## 🎨 2. Design Overview
 
 The application features a tabbed interface for intuitive navigation, with two tabs:
