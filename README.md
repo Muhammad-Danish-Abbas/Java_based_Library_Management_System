@@ -18,7 +18,7 @@ Managing library inventories manually is time-consuming and prone to errors. The
 ### Open PowerShell and run:
 
 powershell
-```
+```java
 cd "$HOME\Desktop"
 javac LibraryManagementSystem.java
 java LibraryManagementSystem
@@ -32,7 +32,7 @@ The application features a tabbed interface for intuitive navigation, with two t
 
 ### 🖼️ Wireframe/Mockup
 
-```
+```java
 🔼 Library Management System
 [Tabs: Manage Books | View Library]
 
@@ -70,7 +70,7 @@ Swing was selected for its simplicity and compatibility with educational environ
 
 The project is structured as a Maven project:
 
-```
+```java
 LibraryManagementSystem/
 ├── src/
 │   └── main/
@@ -172,7 +172,7 @@ The Library Management System delivers an efficient, user-friendly desktop solut
 
 ### 1. Create Project Structure:
 
-```
+```java
 LibraryManagementSystem/
 ├── src/main/java/LibraryManagementSystem.java
 └── pom.xml
